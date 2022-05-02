@@ -39,6 +39,6 @@ module.exports = {
     'react/button-has-type': 'off',
     'react/require-default-props': 'off',
     'import/prefer-default-export': 'off',
-    'react/react-in-jsx-scope': 'off',
+    'react/react-in-jsx-scope': 'off','
   },
 };
